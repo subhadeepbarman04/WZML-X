@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7715827185:AAFqAAzWnU0bHO7sW5-64fYqbG_LK1dHOpk"
+OWNER_ID = "7073149896"
+TELEGRAM_API = "25580827"
+TELEGRAM_HASH = "e7f398847755449564652e1e641a7fe4"
+DATABASE_URL = "mongodb+srv://subhadeepbarman74375:<db_password>@cluster0.mz9ug.mongodb.net/?appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1003558599559"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -90,8 +90,8 @@ DELETE_LINKS = False
 CLEAN_LOG_MSG = False
 
 # Limiters
-BOT_MAX_TASKS = 0
-USER_MAX_TASKS = 0
+BOT_MAX_TASKS = "4"
+USER_MAX_TASKS = "4"
 USER_TIME_INTERVAL = 0
 VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
